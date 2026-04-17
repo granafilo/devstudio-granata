@@ -16,7 +16,7 @@ Progetto realizzato come esame finale del corso Git & GitHub.
 
 ## Informazioni dal repository
 
-1. Numero totale di commit su main: [22]
+1. Numero totale di commit su main: [23]
 2. Hash breve del primo commit in assoluto: [42189b0]
 3. Numero di Pull Request aperte durante il progetto: [4]
 
