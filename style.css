@@ -67,23 +67,42 @@ body {
 }
 
 .team {
-  padding: 3rem 2rem;
+    padding: 3rem 2rem;
 }
 
 .team h2 {
-  font-size: 1.75rem;
-  margin-bottom: 2rem;
-  text-align: center;
+    font-size: 1.75rem;
+    margin-bottom: 2rem;
+    text-align: center;
 }
 
 .membro {
-  background-color: #ffffff;
-  border-left: 4px solid #2c3e50;
-  padding: 1rem 1.5rem;
-  margin-bottom: 1rem;
+    background-color: #ffffff;
+    border-left: 4px solid #2c3e50;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .membro h3 {
-  color: #2c3e50;
-  margin-bottom: 0.25rem;
+    color: #2c3e50;
+    margin-bottom: 0.25rem;
+}
+
+.contatti {
+    padding: 3rem 2rem;
+    max-width: 600px;
+}
+
+.contatti h2 {
+    font-size: 1.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.contatti p {
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
+}
+
+.contatti a {
+    color: #2c3e50;
 }
